@@ -1,4 +1,5 @@
 (println (str "Hello" "World"))
+(println (str "Hello" "World" "Good" "Mornins"))
 (println (str "Hello" "World" "Good" "Morning"))
 
 (def s "Strings")
